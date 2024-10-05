@@ -1,0 +1,13 @@
+A1_step_counts
+Algorithm,Path_Count,Explored_Count,Cost
+BFS,59,478,Step
+DFS,350,647,Step
+UCS,59,545,Step
+Greedy_Manhattan,78,113,Step
+A*_Manhattan,59,154,Step
+A*_Euclid,72,101,Step
+BFS,59,478,StepTurn
+DFS,350,647,StepTurn
+UCS,59,607,StepTurn
+Greedy_Euclid,76,100,StepTurn
+A*_Euclid,72,103,StepTurn
