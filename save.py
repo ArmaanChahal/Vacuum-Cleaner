@@ -29,7 +29,7 @@ Cost function used for UCS and A* search.
 -'StayUp' favors staying on the top side of the map
 """
 costFunctions = ['Step', 'StepTurn', 'StayLeft', 'StayUp']
-heuristics = ['Manhattan', 'Euclid']
+heuristics = ['Manhattan', 'Euclid'] 
 
 
 class Problem:
